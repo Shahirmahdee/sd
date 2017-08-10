@@ -1,0 +1,15 @@
+c:\users\shahir\documents\visual studio 2015\Projects\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe.config
+c:\users\shahir\documents\visual studio 2015\Projects\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe
+c:\users\shahir\documents\visual studio 2015\Projects\Gym Management System\Gym Management System\bin\Debug\Gym Management System.pdb
+c:\users\shahir\documents\visual studio 2015\Projects\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csprojResolveAssemblyReference.cache
+c:\users\shahir\documents\visual studio 2015\Projects\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Login.resources
+c:\users\shahir\documents\visual studio 2015\Projects\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.MemberPanel.resources
+c:\users\shahir\documents\visual studio 2015\Projects\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+c:\users\shahir\documents\visual studio 2015\Projects\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.Cache
+c:\users\shahir\documents\visual studio 2015\Projects\Gym Management System\Gym Management System\obj\Debug\Gym Management System.exe
+c:\users\shahir\documents\visual studio 2015\Projects\Gym Management System\Gym Management System\obj\Debug\Gym Management System.pdb
+C:\Users\Shahir\Documents\Visual Studio 2015\Projects\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.AdminPanel.resources
+C:\Users\Shahir\Documents\Visual Studio 2015\Projects\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Member_Registration.resources
+C:\Users\Shahir\Documents\Visual Studio 2015\Projects\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Payment.resources
+C:\Users\Shahir\Documents\Visual Studio 2015\Projects\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.EmployeeReg.resources
+C:\Users\Shahir\Documents\Visual Studio 2015\Projects\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.EmployeePanel.resources
